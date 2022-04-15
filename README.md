@@ -8,6 +8,8 @@ This game is basically a runner type game. The game character continues to run o
 
 <img src="ImageFiles/title.jpg"  width="700" height="370">
 
+<img src="ImageFiles/title swap.jpg"  width="700" height="370">
+
 1. Game Start : You can start a game.
 2. Record : You can see the choices and answers you choose for each question.
 3. Exit : Exit the game.
