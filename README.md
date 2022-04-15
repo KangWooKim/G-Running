@@ -38,4 +38,4 @@ This game is basically a runner type game. The game character continues to run o
 
 # Warning
 
-This project does not contain files that may cause copyright issues, such as music, graphics, etc.
+This project does not contain files that may cause copyright issues, such as music, graphics, etc. Therefore, it is not possible to play games through download.
