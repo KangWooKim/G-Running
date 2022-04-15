@@ -16,3 +16,22 @@ This game is basically a runner type game. The game character continues to run o
 4. Shop : Character skins are available for purchase.
 5. Dictionary : You can see the words used in the question.
 6. Settings : Change various settings in the game. It is also possible to change the game language to Chinese.
+
+# In game play
+
+<img src="ImageFiles/ingame.jpg"  width="700" height="370">
+
+1. Question : Problems and choices are printed at the top of the game screen.
+2. Score and Correct Rate : The scores earned on the stage and the percentage of correct answers to the questions are displayed.
+3. Pause : Pause the game.
+4. Life Bar : Displays the character's current vitality. If you don't get the correct answer or if you don't get a coin, it decreases.
+5. Left Button : Move the character to the left.
+6. Jump Button : The character jumps.
+7. Right Button : Move the character to the right.
+
+# Loading
+ 
+ <img src="ImageFiles/loading.jpg"  width="700" height="370">
+ 
+ 1. Advertising : It displays advertisements such as Chinese academies.
+ 2. Tips : Provides tips on learning Chinese.
