@@ -35,3 +35,7 @@ This game is basically a runner type game. The game character continues to run o
  
  1. Advertising : It displays advertisements such as Chinese academies.
  2. Tips : Provides tips on learning Chinese.
+
+# Warning
+
+This project does not contain files that may cause copyright issues, such as music, graphics, etc.
